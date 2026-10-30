@@ -1,16 +1,19 @@
-## Hi there 👋
+# Ahmed Othman
 
-<!--
-**ahmed-othman1/ahmed-othman1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Data Analyst | SQL, Python & Power BI
 
-Here are some ideas to get you started:
+I build data analysis projects that turn raw data into clear findings and dashboards.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured projects
+
+- [Brazilian E-commerce Analytics Dashboard](https://github.com/ahmed-othman1/brazilian-ecommerce-analytics-dashboard) — Power BI analysis of orders, sales, delivery, payments, and customer reviews.
+- [Amazon Product Analysis](https://github.com/ahmed-othman1/amazon-product-analysis) — Python analysis of product pricing, discounts, ratings, and customer engagement.
+- [Chinook Music Store SQL Analysis](https://github.com/ahmed-othman1/chinook-music-store-sql-analysis) — SQLite queries exploring sales, customers, artists, invoices, and the music catalog.
+
+## Tools
+
+SQL · SQLite · Python · Pandas · NumPy · Power BI · Jupyter Notebook
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/ahmed-othman0)
