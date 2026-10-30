@@ -12,7 +12,7 @@ I build data analysis projects that turn raw data into clear findings and dashbo
 
 ## Tools
 
-SQL · SQLite · Python · Pandas · NumPy · Power BI · Jupyter Notebook
+SQL · Python · Pandas · NumPy · Power BI · Jupyter Notebook
 
 ## Connect
 
