@@ -16,4 +16,4 @@ SQL · Python · Pandas · NumPy · Power BI · Jupyter Notebook
 
 ## Connect
 
-[LinkedIn](https://www.linkedin.com/in/ahmed-othman0) || [Gmail](ahmedmosman098@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/ahmed-othman0)
